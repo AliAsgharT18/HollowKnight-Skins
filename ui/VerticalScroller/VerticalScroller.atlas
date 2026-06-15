@@ -1,0 +1,20 @@
+
+VerticalScroller.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Scroller
+  rotate: false
+  xy: 1, 1
+  size: 33, 99
+  orig: 33, 99
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1, 102
+  size: 60, 545
+  orig: 60, 545
+  offset: 0, 0
+  index: -1
