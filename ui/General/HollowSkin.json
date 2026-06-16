@@ -1,0 +1,122 @@
+{
+"com.badlogic.gdx.graphics.Color": {
+	"gray": {
+		"r": 0.4862745,
+		"g": 0.47843137,
+		"b": 0.47843137,
+		"a": 1
+	},
+	"green": {
+		"r": 0.10980392,
+		"g": 0.6039216,
+		"b": 0.17254902,
+		"a": 1
+	},
+	"orange": {
+		"r": 1,
+		"g": 0.38763976,
+		"b": 0,
+		"a": 1
+	},
+	"pure_white": {
+		"r": 1,
+		"g": 1,
+		"b": 1,
+		"a": 1
+	},
+	"red": {
+		"r": 0.8117647,
+		"g": 0.09803922,
+		"b": 0.09803922,
+		"a": 1
+	},
+	"unknown_color": {
+		"r": 0.1254902,
+		"g": 0.05882353,
+		"b": 0.05882353,
+		"a": 1
+	},
+	"yellow": {
+		"r": 1,
+		"g": 0.9882353,
+		"b": 0,
+		"a": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable": {
+	"slider": {
+		"name": "white-pixel",
+		"color": "orange",
+		"minWidth": 1,
+		"minHeight": 1
+	},
+	"gray-slider": {
+		"name": "white-pixel",
+		"color": "gray",
+		"minWidth": 1,
+		"minHeight": 1
+	},
+	"black_pxl": {
+		"name": "white-pixel",
+		"color": "unknown_color",
+		"minWidth": 1,
+		"minHeight": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+	"default": {
+		"checkboxOn": "toggle on active",
+		"checkboxOff": "toggle active",
+		"checkboxOnOver": "toggle on hover",
+		"checkboxOver": "toggle hover",
+		"font": "Hollowfont",
+		"fontColor": "orange"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+	"default": {
+		"font": "Hollowfont",
+		"fontColor": "pure_white"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle": {
+	"default": {
+		"font": "Hollowfont",
+		"fontColorSelected": "red",
+		"fontColorUnselected": "yellow",
+		"selection": "black_pxl"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+	"default": {
+		"vScrollKnob": "Scroller"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle": {
+	"default": {
+		"font": "Hollowfont",
+		"fontColor": "pure_white",
+		"background": "controller__0006_Switch_Down",
+		"scrollStyle": "default",
+		"listStyle": "default"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle": {
+	"default-horizontal": {
+		"background": "gray-slider",
+		"knob": "slider_arrow"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+	"default": {
+		"font": "Hollowfont",
+		"fontColor": "yellow",
+		"overFontColor": "red"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+	"default": {
+		"label": "default"
+	}
+}
+}

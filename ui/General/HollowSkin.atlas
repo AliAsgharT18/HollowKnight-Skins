@@ -1,0 +1,90 @@
+
+HollowSkin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+white-pixel
+  rotate: false
+  xy: 1256, 1185
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+toggle active
+  rotate: false
+  xy: 1, 132
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+toggle hover
+  rotate: false
+  xy: 1089, 1071
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+toggle on active
+  rotate: false
+  xy: 1027, 524
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+toggle on hover
+  rotate: false
+  xy: 67, 198
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+overscan_corner_fleur009
+  rotate: false
+  xy: 1027, 1087
+  size: 227, 200
+  orig: 227, 200
+  offset: 0, 0
+  index: -1
+controller__0006_Switch_Down
+  rotate: false
+  xy: 1, 214
+  size: 243, 47
+  orig: 243, 47
+  offset: 0, 0
+  index: -1
+Scroller
+  rotate: false
+  xy: 1256, 1188
+  size: 33, 99
+  orig: 33, 99
+  offset: 0, 0
+  index: -1
+VerticalScroller
+  rotate: false
+  xy: 1, 263
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1027, 540
+  size: 60, 545
+  orig: 60, 545
+  offset: 0, 0
+  index: -1
+slider (1)
+  rotate: false
+  xy: 1, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+slider_arrow
+  rotate: false
+  xy: 246, 219
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
